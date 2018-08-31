@@ -1,0 +1,14 @@
+uuid: 667bd053-426f-42b3-b133-16a342e7c769
+name: 'Open LMS'
+mail: gaurav.k@opensenselabs.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
