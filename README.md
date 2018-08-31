@@ -1,4 +1,8 @@
-# Composer template for Drupal projects
+# Open LMS
+
+The Open LMS distribution can be used for creating learning management system. It has been based on composer template provided https://github.com/drupal-composer/drupal-project.
+
+## Composer template for Drupal projects
 
 [![Build Status](https://travis-ci.org/drupal-composer/drupal-project.svg?branch=8.x)](https://travis-ci.org/drupal-composer/drupal-project)
 

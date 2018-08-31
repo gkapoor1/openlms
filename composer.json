@@ -1,12 +1,12 @@
 {
-    "name": "drupal-composer/drupal-project",
-    "description": "Project template for Drupal 8 projects with composer",
+    "name": "gkapoor1/openlms",
+    "description": "A learning management system based on Drupal 8.",
     "type": "project",
     "license": "GPL-2.0-or-later",
     "authors": [
         {
-            "name": "",
-            "role": ""
+            "name": "Gaurav Kapoor",
+            "role": "Software Developer"
         }
     ],
     "repositories": [
