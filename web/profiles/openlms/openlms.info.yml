@@ -1,0 +1,40 @@
+name: Open LMS
+type: profile
+description: 'Install all the modules and features needed for Open LMS.'
+core: 8.x
+
+distribution:
+  name: Open LMS
+
+dependencies:
+  - node
+  - history
+  - block
+  - block_content
+  - breakpoint
+  - color
+  - config
+  - comment
+  - contextual
+  - contact
+  - quickedit
+  - help
+  - image
+  - options
+  - path
+  - taxonomy
+  - dblog
+  - search
+  - shortcut
+  - toolbar
+  - field_ui
+  - file
+  - rdf
+  - views
+  - views_ui
+  - editor
+  - ckeditor
+
+themes:
+  - bartik
+  - seven
